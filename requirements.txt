@@ -1,4 +1,4 @@
 streamlit
-time
-PIL
-matplotlib.pyplot
+matplotlib
+pillow
+pytest
