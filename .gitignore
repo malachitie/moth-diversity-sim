@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.code-workspace
+
+.pytest_cache
+
+plot.png
+
+.venv/
+venv/
+.vscode/
